@@ -1,0 +1,61 @@
+/* Parent Div */
+body{
+    background-color: #e4e3e398;
+}
+.mainParentDiv{
+    display: flex;
+    margin: 70px 0;
+    flex-direction:column;
+    align-items:center;
+}
+
+/* Signup/Signin CARD */
+.signupCard{
+    width:320px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding: 30px 0px;
+    opacity: 0.96;
+}
+.signupButton{
+    padding:9px 25px;
+    background-color:black;
+    border-radius:20px;
+    color:white;
+    border:0px;
+    font-size: 18px;
+    margin-top:15px;
+}
+.signupButton:hover{
+    background-color: rgb(20, 20, 20);
+}
+.inputField{
+    padding: 5px 10px;
+    border: none;
+    margin: 15px 10px;
+    outline: none;
+    font-size: 18px;
+    background-color: transparent;
+}
+.inputField::placeholder{
+    color: rgb(106, 108, 109);
+}
+.inputField:focus::placeholder{
+    opacity: 0;
+}
+.horizontalLine{
+    width:100%;
+    border: none;
+    border-top: 1px solid rgb(200, 204, 206);
+}
+.bottomLink1{
+    font-size: 16px;
+    margin-top: 15px;
+    font-family: sans-serif;
+}
+.bottomLink2{
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+}

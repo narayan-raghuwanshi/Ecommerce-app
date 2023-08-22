@@ -1,0 +1,47 @@
+[{
+    "title":"Classic White Dress Shirt",
+    "description": "A timeless white dress shirt for formal occasions.",
+    "price":23,
+    "itemImageLink": "https://th.bing.com/th/id/R.84fca4ce92d117b425e61b480adf1197?rik=FYRVD1FdwpUA%2bQ&riu=http%3a%2f%2f3.imimg.com%2fdata3%2fFI%2fSN%2fMY-4310526%2fmen-s-formal-shirts-500x500.jpg&ehk=6x1duOO6cDhId5hIefz8MXWOYxgAYRnQcpEgXpfdIG8%3d&risl=&pid=ImgRaw&r=0",
+    "category":"Shirts",
+    "rating": 4.5,
+    "sizes": ["S", "M", "L", "XL"],
+    "color": "White"
+},
+{
+    "title":"Slim Fit Dark Denim Jeans",
+    "description": "Stylish and comfortable dark denim jeans.",
+    "price":25,
+    "itemImageLink": "https://th.bing.com/th/id/OIP.wb9shzA0iDmF-rjoC7ce2gHaJT?pid=ImgDet&rs=1",
+    "category":"Jeans",
+    "rating": 4.2,
+    "sizes": ["28Wx30L", "30Wx30L", "32Wx32L", "34Wx32L"],
+    "color": "Dark Blue"
+},{
+    "title":"Navy Blue Two-Piece Suit",
+    "description": "Elegant navy blue suit for formal events.",
+    "price":100,
+    "itemImageLink": "https://th.bing.com/th/id/OIP.W-hcut8EHBzc_abX80TsPQHaKt?pid=ImgDet&rs=1",
+    "category":"Suits",
+    "rating": 4.8,
+    "sizes": ["36R", "38R", "40R", "42R"],
+    "color": "Navy Blue"
+},{
+    "title": "Casual Cotton Polo Shirt",
+    "description": "Comfortable cotton polo shirt for a casual and stylish appearance.",
+    "price": 34,
+    "itemImageLink": "https://ae01.alicdn.com/kf/HTB12PUWAKSSBuNjy0Flq6zBpVXax/GREVOL-Men-s-Summer-Solid-Polo-Shirt-Smart-Casual-Cotton-Short-Sleeve-Solid-Tee-Polo-Shirt.jpg",
+    "category": "Shirts",
+    "rating": 4.2,
+    "sizes": ["S", "M", "L", "XL"],
+    "color": "Navy Blue"
+  },{
+    "title": "Slim Fit Charcoal Gray Blazer",
+    "description": "Sophisticated charcoal gray blazer for a polished look.",
+    "price": 149,
+    "itemImageLink": "https://media.gettyimages.com/id/106419037/photo/white-silk-tie-with-grey-jacket-lapel.jpg?s=2048x2048&w=gi&k=20&c=6XpkTFfIMQGJJQy7cfE9AUbKlL8c-TDgtrKQ8n0jyTM=",
+    "category": "Blazers",
+    "rating": 4.6,
+    "sizes": ["S", "M", "L", "XL"],
+    "color": "Charcoal Gray"
+  }]
